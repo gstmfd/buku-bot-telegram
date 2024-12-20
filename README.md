@@ -1,2 +1,4 @@
 # buku-bot-telegram
-hai hai, hai juga
+cd buku
+ls
+python buku.py
